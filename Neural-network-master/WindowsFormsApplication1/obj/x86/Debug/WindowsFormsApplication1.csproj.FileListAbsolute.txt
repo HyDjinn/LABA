@@ -1,0 +1,9 @@
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\учеба\ооп\Neural-network-master\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
